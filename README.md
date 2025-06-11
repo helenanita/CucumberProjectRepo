@@ -1,2 +1,2 @@
 # HelenGitPortfolio
-# This repository contains all automation framarwork code designs.
+# This repository contains all automation framework code designs.
